@@ -6,6 +6,7 @@ Maflow S.A cuenta con certificaciones internacionales que avala su compromiso co
 1. IATF 16949:2016 Esta norma es específica de la industria automotriz, establece los requisitos para un sistema de gestión de la calidad. Desarrollada por el International AAutomotive Task Force (IATF), incorporta los requisitos para garantizar la mejora continua, prevención de defectos y reducción de variaciones y desperdicios en la cadena de suministro.
 2. ISO 9001: Se centra en los sistemas de gestión de la calidad. Demuestra la capacidad de la empresa para proporcionar productos y servicios que cumplen los requisitos del cliente y las regulaciones aplicables.
 3. ISO 14001: Esta norma establece los criterios para un sistema de gestión ambiental efectivo. Ayuda a las organizaciones a mejorar su desempeño ambiental mediante el uso efectivo de los recursos y la reducción de residuos.
+
 Además de las certificaciones, Maflow S.A. ha demostrado su compromiso al unirse  al Pacto Mundial de las Naciones Unidas en Mayo de 2024 el cual consta en alinear sus estrategias y operaciones con diez principios universales sobre derechos humanos, normas laborales, medioambiente y lucha contra la corrupción.
 
 SOLUCIONES PERSONALIZADAS: 
