@@ -8,10 +8,10 @@ Maflow S.A cuenta con certificaciones internacionales que avala su compromiso co
 3. ISO 14001: Esta norma establece los criterios para un sistema de gestión ambiental efectivo. Ayuda a las organizaciones a mejorar su desempeño ambiental mediante el uso efectivo de los recursos y la reducción de residuos.
 Además de las certificaciones, Maflow S.A. ha demostrado su compromiso al unirse  al Pacto Mundial de las Naciones Unidas en Mayo de 2024 el cual consta en alinear sus estrategias y operaciones con diez principios universales sobre derechos humanos, normas laborales, medioambiente y lucha contra la corrupción.
 
-SOLUCIONES PERSONALIZADAS
+SOLUCIONES PERSONALIZADAS: 
 Desarrollo de componentes a medida; diseño y fabricación de tuberías de caucho y aluminio adaptadas a los requirimientos específicos de cada fabricante, uso de la tecnología de simulación avanzada para optimizar el diseño y funcionalidad de los componentes antes de su producción.
 
-MODELO "JUST IN TIME"
+MODELO "JUST IN TIME": 
 Es un modelo de gestión de producción y logística que busca minimizar los desperdicios y optimizar los recursos mediante la fabricación y entrega de productos en el momento que son requeridos, sin excedentes de inventario.
 El modelo se implemento con una produccón alineada dependiendo la demanda real de los productos, de esta forma se evitan acumulaciones innecesarias de inventario, se reducen los tiempos de espera y se optimizan los procesos logísticos.
 El uso de un software avanzado es necesario para la planificación y gestión de la cadena de suministro para sincronizar producción y entregas. 
