@@ -24,3 +24,11 @@ Desarrollo de componentes a medida; diseño y fabricación de tuberías de cauch
 Es un modelo de gestión de producción y logística que busca minimizar los desperdicios y optimizar los recursos mediante la fabricación y entrega de productos en el momento que son requeridos, sin excedentes de inventario.
 El modelo se implemento con una produccón alineada dependiendo la demanda real de los productos, de esta forma se evitan acumulaciones innecesarias de inventario, se reducen los tiempos de espera y se optimizan los procesos logísticos.
 El uso de un software avanzado es necesario para la planificación y gestión de la cadena de suministro para sincronizar producción y entregas. 
+
+
+### Diagrama del Modelo de Negocio
+
+|Diagrama|
+|:-:|
+|![](/Documentos/Imagenes/DiagramaModeloNegocio.svg)|
+
