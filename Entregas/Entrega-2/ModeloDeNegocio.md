@@ -52,7 +52,7 @@ También se dedican a la implementación de tecnologías de impresión 3D para p
 ### Inteligencia artificial
 Adaptandose a los nuevos avances, cabe destacar que Maflow ha integrado la inteligencia artificial y el análisis de datos en sus procesos consiguiendo así una mejora en la eficiencia y competitividad dentro del sector.
 
-### Diagrama del Modelo de Negocio
+## Diagrama del Modelo de Negocio
 
 |Diagrama|
 |:-:|
