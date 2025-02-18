@@ -22,8 +22,8 @@ Desarrollo de componentes a medida; diseño y fabricación de tuberías de cauch
 
 ### Procesos de producción y gestión 
 Maflow Spain ha adaptado iniciativas para optimizar sus procesos utilizando los prinicpios de la Industria 4.0, algunas de esas acciones son: 
-1.Integaración del sistema SAP: Mejora la eficiencia en la comunicación y gestión de la cadena de suminstro. 
-2.Proyecto MDDC4.0: Su objetivo es desarrollar e implementear soluciones tecnológicas destinadas a la digitalización y conectividad dentro de la Organización, mediante un proceso continuo de extracción, almacenamiento,análisis, exploración y visualización de la información, todo ello con el prpósito de convertir a la empresa en una "Data Driven Comapny". https://maflow.es/proyecto-mddc4-0/  
+1. Integaración del sistema SAP: Mejora la eficiencia en la comunicación y gestión de la cadena de suminstro. 
+2. Proyecto MDDC4.0: Su objetivo es desarrollar e implementear soluciones tecnológicas destinadas a la digitalización y conectividad dentro de la Organización, mediante un proceso continuo de extracción, almacenamiento,análisis, exploración y visualización de la información, todo ello con el prpósito de convertir a la empresa en una "Data Driven Comapny". https://maflow.es/proyecto-mddc4-0/  
 
 ### Modelo "JUST IN TIME": 
 Es un modelo de gestión de producción y logística que busca minimizar los desperdicios y optimizar los recursos mediante la fabricación y entrega de productos en el momento que son requeridos, sin excedentes de inventario.
