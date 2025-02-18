@@ -25,10 +25,32 @@ Es un modelo de gestión de producción y logística que busca minimizar los des
 El modelo se implemento con una produccón alineada dependiendo la demanda real de los productos, de esta forma se evitan acumulaciones innecesarias de inventario, se reducen los tiempos de espera y se optimizan los procesos logísticos.
 El uso de un software avanzado es necesario para la planificación y gestión de la cadena de suministro para sincronizar producción y entregas. 
 
+## Actividades Clave
+Maflow es una empresa considerada líder en la fabricación de componentes en la industria de automoción, para ello cuenta con una serie de actividades clave, las cuales aportan un valor al cliente el cual es fundamental para el negocio, están descritas a continuación:
+
+### Fabricación de componentes bajo la ISO/TS 16949
+De forma genérica podemos decir que Maflow fabrica sus componentes bajo esta norma, en la actualidad conocida como IATF 16949, la cual es usada como un estándar para la gestión de la calidad en las industrias automotrices
+Garantiza una serie de aspectos importantes tales como: un riguroso control de la producción para cumplir con requisitos, la optimización de procesos reduciendto defectos y desperdicios, proporcionar tanto una trazabilidad de los componentes como su documentación y cumplir las normas en de seguridad y ambientales establecidas.
+
+### Fabricación de tuberías de aire acondicionado
+Entrando más en detalle sobre las actividades realizadas, la principal actividad realizada en la empresa es la producción de tuberías para sistemas de climatización en vehículos, contando con una reconocido rama de clientes como son: Volkswagen, Audi, Skoda, SEAT, Peugeot-Citroën y Renault
+
+### Producción de líquidos
+También amplian su oferta de productos a la elaboración de productos como anticongelantes, refrigerantes, líquidos de frenos o limpiaparabrisas, esto lo hacen bajo la marca Borygo
+
+### Servicios industriales
+En detalles técnicos, ofrecen procesos como corte, conformado y doblado de tuberías, lavado por ultrasonido y soldadura láser de aluminio
+
+### Fabricación aditiva
+También se dedican a la implementación de tecnologías de impresión 3D para prototipos y producción de piezas finales, contando con la impresora más grande de la comunidad autónoma de Cantabria
+
+### Inteligencia artificial
+Adaptandose a los nuevos avances, cabe destacar que Maflow ha integrado la inteligencia artificial y el análisis de datos en sus procesos consiguiendo así una mejora en la eficiencia y competitividad dentro del sector.
 
 ### Diagrama del Modelo de Negocio
 
 |Diagrama|
 |:-:|
 |![](/Documentos/Imagenes/DiagramaModeloNegocio.svg)|
+
 
