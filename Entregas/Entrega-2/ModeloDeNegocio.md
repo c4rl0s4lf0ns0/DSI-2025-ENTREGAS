@@ -8,7 +8,7 @@ Maflow Spain Automotive S.L., es una empresa que comenzó a operar en Cantabria 
 | Soluciones personalizadas para diferentes marcas de automóviles | Proveedores de primer nivel (Tier 1) de la industria automotriz | Portal B2B para gestión de pedidos y seguimiento de entregas | | Venta de componentes especializados a proveedores Tier 1 | Laboratorios de pruebas y certificación | | Costos de materias primas |
 ||||||||I+D
 
-## Propuesta de Valor 
+## Propuesta de Valor: 
 Maflow S.A cuenta con certificaciones internacionales que avala su compromiso con la calidad y la gestión ambiental, algunas de esas certificaciones son: 
 1. IATF 16949:2016 Esta norma es específica de la industria automotriz, establece los requisitos para un sistema de gestión de la calidad. Desarrollada por el International AAutomotive Task Force (IATF), incorporta los requisitos para garantizar la mejora continua, prevención de defectos y reducción de variaciones y desperdicios en la cadena de suministro.
 2. ISO 9001: Se centra en los sistemas de gestión de la calidad. Demuestra la capacidad de la empresa para proporcionar productos y servicios que cumplen los requisitos del cliente y las regulaciones aplicables.
