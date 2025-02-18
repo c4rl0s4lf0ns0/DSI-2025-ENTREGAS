@@ -19,6 +19,6 @@ El uso de un software avanzado es necesario para la planificación y gestión de
 
 |Propuesta de valor|Segmento de Clientes|Canales de Distribución|Relación con Clientes|Fuentes de Ingresos|Recursos Clave|Actividades Clave|Estructura de Costos|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Fabricación de componentes de aire acondicionado de alta calidad con certificaciones internacionales |Fabricantes de automóviles (OEMs) como Volkswagen, Ford, BMW  |Venta directa a través de equipo comercial especializado  |Soporte de ingeniería para desarrollo de nuevos productos  |Contratos de suministro a largo plazo con OEMs  |Plantas de producción automatizadas |Producción de componentes bajo estándares ISO/TS 16949  |  |Inversión en maquinaria y automatización  |  
+|Fabricación de componentes de aire acondicionado de alta calidad con certificaciones internacionales |Fabricantes de automóviles (OEMs) como Volkswagen, Ford, BMW  |Venta directa a través de equipo comercial especializado  |Soporte de ingeniería para desarrollo de nuevos productos  |Contratos de suministro a largo plazo con OEMs  |Plantas de producción automatizadas |Producción de componentes bajo estándares ISO/TS 16949  | Inversión en maquinaria y automatización  |  
 |Soluciones personalizadas para diferentes marcas de automóviles  |Proveedores de primer nivel (Tier 1) de la industria automotriz  |Portal B2B para gestión de pedidos y seguimiento de entregas  |  |Laboratorios de pruebas y certificación  |  |  |Costos de materias primas
 ||||||||I+D
