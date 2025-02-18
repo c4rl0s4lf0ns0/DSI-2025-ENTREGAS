@@ -25,8 +25,6 @@ Es un modelo de gestión de producción y logística que busca minimizar los des
 El modelo se implemento con una produccón alineada dependiendo la demanda real de los productos, de esta forma se evitan acumulaciones innecesarias de inventario, se reducen los tiempos de espera y se optimizan los procesos logísticos.
 El uso de un software avanzado es necesario para la planificación y gestión de la cadena de suministro para sincronizar producción y entregas. 
 
-
-
 ## Actividades Clave
 Maflow es una empresa considerada líder en la fabricación de componentes en la industria de automoción, para ello cuenta con una serie de actividades clave, las cuales aportan un valor al cliente el cual es fundamental para el negocio, están descritas a continuación:
 
@@ -48,3 +46,11 @@ También se dedican a la implementación de tecnologías de impresión 3D para p
 
 ### Inteligencia artificial
 Adaptandose a los nuevos avances, cabe destacar que Maflow ha integrado la inteligencia artificial y el análisis de datos en sus procesos consiguiendo así una mejora en la eficiencia y competitividad dentro del sector.
+
+### Diagrama del Modelo de Negocio
+
+|Diagrama|
+|:-:|
+|![](/Documentos/Imagenes/DiagramaModeloNegocio.svg)|
+
+

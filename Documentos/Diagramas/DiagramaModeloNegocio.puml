@@ -1,0 +1,88 @@
+@startuml
+hide circles
+hide empty members
+
+    class Maflow_Spain {
+        +Dirección_General
+        +Gestión_Financiera
+        +RRHH
+        +Marketing
+        +Ingeniería
+        +Logística
+        +Calidad
+
+    }
+
+    class Division_Automotive {
+        +Tubos_AC
+        +Tubos_Refrigeración
+        +Componentes_Aluminio
+        +Control_Calidad_IATF16949
+        +Producción_JIT
+    }
+
+    class Division_Borygo {
+        +Líquidos_Refrigerantes
+        +Limpiaparabrisas
+        +Productos_Detailing
+        +Control_Calidad_Químico
+        +Distribución_Retail
+    }
+
+    class Division_Maflow3D {
+        +Impresión_3D_Industrial
+        +Prototipado_Rápido
+        +Fabricación_Series_Cortas
+        +Control_Calidad_3D
+        +I+D_Materiales
+    }
+
+    class Clientes_Automotive {
+        +OEMs_Automoción
+        +Tier_1_Suppliers
+    }
+
+    class Clientes_Borygo {
+        +Distribuidores_Auto
+        +Comercio_Mayorista
+    }
+
+    class Clientes_3D {
+        +Industria_Automoción
+        +Fabricantes_Industrial
+        +Centros_I+D
+    }
+
+    class Procesos_Automotive {
+        +Conformado_Tubos
+        +Soldadura
+        +Ensamblaje
+        +Control_Calidad
+    }
+
+    class Procesos_Borygo {
+        +Formulación_Química
+        +Mezcla
+        +Envasado
+        +Control_Calidad_Químico
+    }
+
+    class Procesos_3D {
+        +Diseño_CAD
+        +Optimización_Topológica
+        +Impresión_Industrial
+    }
+
+    Maflow_Spain --> Division_Automotive
+    Maflow_Spain --> Division_Borygo
+    Maflow_Spain --> Division_Maflow3D
+
+    Division_Automotive --> Clientes_Automotive
+    Division_Automotive --> Procesos_Automotive
+
+    Division_Borygo --> Clientes_Borygo
+    Division_Borygo --> Procesos_Borygo
+
+    Division_Maflow3D --> Clientes_3D
+    Division_Maflow3D --> Procesos_3D
+@enduml
