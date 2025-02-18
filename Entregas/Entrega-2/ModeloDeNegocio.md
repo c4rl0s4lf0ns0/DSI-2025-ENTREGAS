@@ -15,10 +15,15 @@ Maflow S.A cuenta con certificaciones internacionales que avala su compromiso co
 3. ISO 14001: Esta norma establece los criterios para un sistema de gestión ambiental efectivo. Ayuda a las organizaciones a mejorar su desempeño ambiental mediante el uso efectivo de los recursos y la reducción de residuos.
 
 ### Compromiso Social y Ambiental
-Además de las certificaciones, Maflow S.A. ha demostrado su compromiso al unirse  al Pacto Mundial de las Naciones Unidas en Mayo de 2024 el cual consta en alinear sus estrategias y operaciones con diez principios universales sobre derechos humanos, normas laborales, medioambiente y lucha contra la corrupción.
+Además de las certificaciones, Maflow S.A. ha demostrado su compromiso al unirse  al Pacto Mundial de las Naciones Unidas en Mayo de 2024 el cual consta en alinear sus estrategias y operaciones con diez principios universales sobre derechos humanos, normas laborales, medioambiente y lucha contra la corrupción. https://unglobalcompact.org/what-is-gc/participants/164320-MAFLOW-SPAIN-AUTOMOTIVE
 
-### Soluciones personalizadas: 
+### Soluciones personalizadas 
 Desarrollo de componentes a medida; diseño y fabricación de tuberías de caucho y aluminio adaptadas a los requirimientos específicos de cada fabricante, uso de la tecnología de simulación avanzada para optimizar el diseño y funcionalidad de los componentes antes de su producción.
+
+### Procesos de producción y gestión 
+Maflow Spain ha adaptado iniciativas para optimizar sus procesos utilizando los prinicpios de la Industria 4.0, algunas de esas acciones son: 
+1.Integaración del sistema SAP: Mejora la eficiencia en la comunicación y gestión de la cadena de suminstro. 
+2.Proyecto MDDC4.0: Su objetivo es desarrollar e implementear soluciones tecnológicas destinadas a la digitalización y conectividad dentro de la Organización, mediante un proceso continuo de extracción, almacenamiento,análisis, exploración y visualización de la información, todo ello con el prpósito de convertir a la empresa en una "Data Driven Comapny". https://maflow.es/proyecto-mddc4-0/  
 
 ### Modelo "JUST IN TIME": 
 Es un modelo de gestión de producción y logística que busca minimizar los desperdicios y optimizar los recursos mediante la fabricación y entrega de productos en el momento que son requeridos, sin excedentes de inventario.
@@ -52,5 +57,4 @@ Adaptandose a los nuevos avances, cabe destacar que Maflow ha integrado la intel
 |Diagrama|
 |:-:|
 |![](/Documentos/Imagenes/DiagramaModeloNegocio.svg)|
-
 
