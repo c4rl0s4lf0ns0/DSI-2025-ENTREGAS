@@ -58,3 +58,5 @@ Adaptandose a los nuevos avances, cabe destacar que Maflow ha integrado la intel
 |:-:|
 |![](/Documentos/Imagenes/DiagramaModeloNegocio.svg)|
 
+
+[INICIO](/README.md)
