@@ -8,19 +8,19 @@ Maflow Spain Automotive S.L., es una empresa que comenzó a operar en Cantabria 
 | Soluciones personalizadas para diferentes marcas de automóviles | Proveedores de primer nivel (Tier 1) de la industria automotriz | Portal B2B para gestión de pedidos y seguimiento de entregas | | Venta de componentes especializados a proveedores Tier 1 | Laboratorios de pruebas y certificación | | Costos de materias primas |
 ||||||||I+D
 
-## Propuesta de Valor 
+## Propuesta de Valor: 
 Maflow S.A cuenta con certificaciones internacionales que avala su compromiso con la calidad y la gestión ambiental, algunas de esas certificaciones son: 
 1. IATF 16949:2016 Esta norma es específica de la industria automotriz, establece los requisitos para un sistema de gestión de la calidad. Desarrollada por el International AAutomotive Task Force (IATF), incorporta los requisitos para garantizar la mejora continua, prevención de defectos y reducción de variaciones y desperdicios en la cadena de suministro.
 2. ISO 9001: Se centra en los sistemas de gestión de la calidad. Demuestra la capacidad de la empresa para proporcionar productos y servicios que cumplen los requisitos del cliente y las regulaciones aplicables.
 3. ISO 14001: Esta norma establece los criterios para un sistema de gestión ambiental efectivo. Ayuda a las organizaciones a mejorar su desempeño ambiental mediante el uso efectivo de los recursos y la reducción de residuos.
 
-## Compromiso Social y Ambiental
+### Compromiso Social y Ambiental
 Además de las certificaciones, Maflow S.A. ha demostrado su compromiso al unirse  al Pacto Mundial de las Naciones Unidas en Mayo de 2024 el cual consta en alinear sus estrategias y operaciones con diez principios universales sobre derechos humanos, normas laborales, medioambiente y lucha contra la corrupción.
 
-## Soluciones personalizadas: 
+### Soluciones personalizadas: 
 Desarrollo de componentes a medida; diseño y fabricación de tuberías de caucho y aluminio adaptadas a los requirimientos específicos de cada fabricante, uso de la tecnología de simulación avanzada para optimizar el diseño y funcionalidad de los componentes antes de su producción.
 
-## Modelo "JUST IN TIME": 
+### Modelo "JUST IN TIME": 
 Es un modelo de gestión de producción y logística que busca minimizar los desperdicios y optimizar los recursos mediante la fabricación y entrega de productos en el momento que son requeridos, sin excedentes de inventario.
 El modelo se implemento con una produccón alineada dependiendo la demanda real de los productos, de esta forma se evitan acumulaciones innecesarias de inventario, se reducen los tiempos de espera y se optimizan los procesos logísticos.
 El uso de un software avanzado es necesario para la planificación y gestión de la cadena de suministro para sincronizar producción y entregas. 
