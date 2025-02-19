@@ -58,6 +58,19 @@ También se dedican a la implementación de tecnologías de impresión 3D para p
 ### Inteligencia artificial
 Adaptandose a los nuevos avances, cabe destacar que Maflow ha integrado la inteligencia artificial y el análisis de datos en sus procesos consiguiendo así una mejora en la eficiencia y competitividad dentro del sector.
 
+### Segmentos de clientes
+Responde a la pregunta de ¿quiénes son los clientes de mi empresa? Los segmentos son diferentes grupos de personas y/o empresas a los que una entidad se dirige para ofrecerles valor con sus productos y servicios producidos. Los clientes están divididos y agrupados en segmentos con características similares en función de estos y también de la propia empresa. Pueden ser amplios si la empresa se dirige de manera masiva al mercado o de nicho. La organización tiene que saber identificarlos para adaptar su oferta a cada uno de ellos para mejorar su relación con ellos y optimizar los ingresos.
+
+1. Sector Automotriz (tuberías, piezas hechas por encargo, líquidos de frenos, anticongelante, limpiaparabrisas)
+- Fabricantes de Automóviles: como SEAT, Volkswagen, Audi, Skoda, Peugeot, Citröen y Renault.
+- Fabricantes de Vehículos Industriales: Los clientes son Volvo, Scania, MAN y Daf.
+- Fabricantes de autobuses y sistemas de refrigeración móvil: Maflow produce para ellos tuberías de caucho y racores, además de gestionar fluidos en grandes cantidades y adecuarlo para largos viajes. Uno de sus clientes es MAN Bus and Truck. En cuanto a los sitemas de refrigeración móvil son más complejos debido a las cadenas de frío cerradas y altas presiones. Pertenece Thermo King y son actividades de manipulación y transporte de alimentos, bebidas, medicamentos, vacunas...
+- Empresas de posventa y distribución de repuestos.
+
+2. Clientes industriales
+Distribuye los elementos y piezas anteriores además de rodamientos bajo la marca de FLT.
+- Impresiones 3D: presta sus servicios y tecnología para tanto diseñar como producir e imprimir piezas a nivel nacional e internacional.
+- Reciclables: Maflow asegura que sus productos pueden ser reconstruidos y reciclados, como las baterías y tubos de caucho, y se los proporciona a empresas de reutilización.
 ## Diagrama del Modelo de Negocio
 
 |Diagrama|
