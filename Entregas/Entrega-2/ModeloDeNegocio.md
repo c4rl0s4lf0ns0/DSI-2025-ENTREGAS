@@ -53,6 +53,37 @@ También se dedican a la implementación de tecnologías de impresión 3D para p
 ### Inteligencia artificial
 Adaptandose a los nuevos avances, cabe destacar que Maflow ha integrado la inteligencia artificial y el análisis de datos en sus procesos consiguiendo así una mejora en la eficiencia y competitividad dentro del sector.
 
+## Fuentes de Ingresos  
+Maflow Spain Automotive S.L. genera ingresos a través de múltiples canales dentro del sector automotriz e industrial. Su modelo de negocio se basa en acuerdos comerciales de suministro, venta de productos especializados y servicios tecnológicos avanzados.  
+
+### 1. **Contratos de suministro a largo plazo con fabricantes de automóviles (OEMs)**  
+   - La principal fuente de ingresos de Maflow proviene de contratos de suministro con grandes fabricantes de automóviles como Volkswagen, Ford y BMW.  
+   - Estos contratos establecen volúmenes de producción y precios a largo plazo, asegurando una estabilidad financiera para la empresa.  
+   - La empresa fabrica y suministra tuberías para sistemas de climatización y refrigeración, esenciales para los vehículos modernos.  
+
+### 2. **Venta de componentes especializados a proveedores de primer nivel (Tier 1)**  
+   - Además de los OEMs, Maflow trabaja con proveedores Tier 1 de la industria automotriz, quienes ensamblan componentes para las grandes marcas de vehículos.  
+   - La empresa comercializa tuberías de caucho y aluminio diseñadas a medida para cada cliente, lo que incrementa su valor agregado.  
+   - La relación con estos proveedores se gestiona a través de un portal B2B y un sistema SAP que permite la gestión de pedidos en tiempo real.  
+
+### 3. **Ingresos por la venta de líquidos refrigerantes y otros productos químicos (División Borygo)**  
+   - La división Borygo se especializa en la producción de anticongelantes, refrigerantes, líquidos de frenos y limpiaparabrisas.  
+   - Estos productos se comercializan tanto a fabricantes de automóviles como a distribuidores del sector de posventa y repuestos.  
+   - Esta línea de negocio permite a Maflow diversificar sus fuentes de ingresos más allá de los componentes de climatización.  
+
+### 4. **Servicios industriales y manufactura avanzada**  
+   - Maflow genera ingresos ofreciendo servicios de corte, conformado, doblado de tuberías, lavado por ultrasonido y soldadura láser de aluminio.  
+   - Estos servicios son contratados por otras empresas del sector automotriz e industrial que requieren procesos de fabricación especializados.  
+
+### 5. **Fabricación aditiva e impresión 3D**  
+   - A través de su unidad Maflow 3D, la empresa ofrece servicios de impresión 3D con tecnologías FDM y MJF para la producción de prototipos y piezas finales.  
+   - La impresión 3D es utilizada tanto internamente como para clientes industriales que requieren soluciones personalizadas en materiales plásticos y metálicos.  
+
+### 6. **Reciclaje y reutilización de materiales**  
+   - Maflow obtiene ingresos adicionales a partir del reciclaje y reutilización de componentes como tubos de caucho y baterías.  
+   - Estos productos reciclados se venden a empresas especializadas en economía circular, contribuyendo a la sostenibilidad ambiental y reduciendo costos de producción.  
+
+
 
 ## Estructura de costos
 ### I + D 
