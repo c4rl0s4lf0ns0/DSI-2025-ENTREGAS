@@ -29,7 +29,7 @@ Desarrollo de componentes a medida; diseño y fabricación de tuberías de cauch
 ### Procesos de producción y gestión 
 Maflow Spain ha adaptado iniciativas para optimizar sus procesos utilizando los prinicpios de la Industria 4.0, algunas de esas acciones son: 
 1. Integaración del sistema SAP: Mejora la eficiencia en la comunicación y gestión de la cadena de suminstro. 
-2. Proyecto MDDC4.0: Su objetivo es desarrollar e implementear soluciones tecnológicas destinadas a la digitalización y conectividad dentro de la Organización, mediante un proceso continuo de extracción, almacenamiento,análisis, exploración y visualización de la información, todo ello con el prpósito de convertir a la empresa en una "Data Driven Company". https://maflow.es/proyecto-mddc4-0/  
+2. Proyecto MDDC4.0: Su objetivo es desarrollar e implementear soluciones tecnológicas destinadas a la digitalización y conectividad dentro de la Organización, mediante un proceso continuo de extracción, almacenamiento,análisis, exploración y visualización de la información, todo ello con el propósito de convertir a la empresa en una "Data Driven Company". https://maflow.es/proyecto-mddc4-0/  
 
 ## Actividades Clave
 Maflow es una empresa considerada líder en la fabricación de componentes en la industria de automoción, para ello cuenta con una serie de actividades clave, las cuales aportan un valor al cliente el cual es fundamental para el negocio, están descritas a continuación:
