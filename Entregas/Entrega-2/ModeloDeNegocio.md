@@ -58,6 +58,22 @@ También se dedican a la implementación de tecnologías de impresión 3D para p
 ### Inteligencia artificial
 Adaptandose a los nuevos avances, cabe destacar que Maflow ha integrado la inteligencia artificial y el análisis de datos en sus procesos consiguiendo así una mejora en la eficiencia y competitividad dentro del sector.
 
+
+## Estructura de costos
+### I + D 
+La empresa Maflow Spain Automotive  invertió una cantidad de 2,3 millones de euros, de los que el Gobierno de Cantabria aportó 500.000 euros destinados a  diversificar su producción, de manera que, ya no sólo se centra en los sistemas de aire acondicionado, sino que incluye también nuevas líneas de líquido anticongelante y Netbees.
+
+Por otro lado cuentan con la Impresora 3D más grande de Cantabria, con esta incorporación la planta es mucho más competitiva, gracias a la producción del Time-toMarket, al disponer de prototipos 3D y fabricar series cortas de los componentes de automoción.
+
+### Costos 
+Materias Primas: Incluyen materiales como caucho, metales y plásticos utilizados en la fabricación de tuberías y mangueras para sistemas de aire acondicionado y dirección asistida.
+
+Mano de Obra Directa: Salarios y beneficios del personal directamente involucrado en la producción. Donde cuentan con un total de 101 empleados 
+
+Capacitación y formación: Inversión en entrenamiento de empleados para mejorar procesos.
+
+Seguridad y bienestar: Costos en medidas de seguridad y beneficios para los empleados.
+
 ### Segmentos de clientes
 Responde a la pregunta de ¿quiénes son los clientes de mi empresa? Los segmentos son diferentes grupos de personas y/o empresas a los que una entidad se dirige para ofrecerles valor con sus productos y servicios producidos. Los clientes están divididos y agrupados en segmentos con características similares en función de estos y también de la propia empresa. Pueden ser amplios si la empresa se dirige de manera masiva al mercado o de nicho. La organización tiene que saber identificarlos para adaptar su oferta a cada uno de ellos para mejorar su relación con ellos y optimizar los ingresos.
 
@@ -71,6 +87,7 @@ Responde a la pregunta de ¿quiénes son los clientes de mi empresa? Los segment
 Distribuye los elementos y piezas anteriores además de rodamientos bajo la marca de FLT.
 - Impresiones 3D: presta sus servicios y tecnología para tanto diseñar como producir e imprimir piezas a nivel nacional e internacional.
 - Reciclables: Maflow asegura que sus productos pueden ser reconstruidos y reciclados, como las baterías y tubos de caucho, y se los proporciona a empresas de reutilización.
+
 ## Diagrama del Modelo de Negocio
 
 |Diagrama|
