@@ -1,3 +1,9 @@
+
+
+| [![](https://img.shields.io/badge/-Inicio-FFF?style=flat)](/README.md)  [![](https://img.shields.io/badge/-Entrega_2-FFF?style=flat)](/Entregas/Entrega-2/ModeloDeNegocio.md)  [![](https://img.shields.io/badge/-Entrega_3-FFF?style=flat)](/Entregas/Entrega-3/HuellaDigital.md)  [![](https://img.shields.io/badge/-Entrega_4-FFF?style=flat)](/entrega4/README.md) |
+|:-:|
+
+
 # Modelo de negocio de Maflow Spain Automotive S.L
 ## Introducción:
 Maflow Spain Automotive S.L., es una empresa que comenzó a operar en Cantabria en diciembre de 1994 bajo el nombre de Dinaflex, y se dedica a la fabricación de tuberías para sistemas de climatización y refrigeración en vehículos. La división Borygo, es una parte de dicho grupo que se dedica a la creación de productos como anticongelantes, refrigerantes y líquidos para limpiaparabrisas y frenos, que abastecen a grandes marcas automotrices a nivel global. Maflow ha introducido innovaciones con su unidad Maflow 3D, que está enfocada en la manufactura aditiva mediante impresión 3D con tecnologías FDM y MJF. Maflow 3D sobresale en la realización de proyectos complejso sin costes adicoanles, proporcionando asistencia permanente gracias a su equipo especialidado de ingenieros, cumpliendo siempre con los requisitos de los clientes.
