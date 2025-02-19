@@ -31,11 +31,6 @@ Maflow Spain ha adaptado iniciativas para optimizar sus procesos utilizando los 
 1. Integaración del sistema SAP: Mejora la eficiencia en la comunicación y gestión de la cadena de suminstro. 
 2. Proyecto MDDC4.0: Su objetivo es desarrollar e implementear soluciones tecnológicas destinadas a la digitalización y conectividad dentro de la Organización, mediante un proceso continuo de extracción, almacenamiento,análisis, exploración y visualización de la información, todo ello con el prpósito de convertir a la empresa en una "Data Driven Comapny". https://maflow.es/proyecto-mddc4-0/  
 
-### Modelo "JUST IN TIME": 
-Es un modelo de gestión de producción y logística que busca minimizar los desperdicios y optimizar los recursos mediante la fabricación y entrega de productos en el momento que son requeridos, sin excedentes de inventario.
-El modelo se implemento con una produccón alineada dependiendo la demanda real de los productos, de esta forma se evitan acumulaciones innecesarias de inventario, se reducen los tiempos de espera y se optimizan los procesos logísticos.
-El uso de un software avanzado es necesario para la planificación y gestión de la cadena de suministro para sincronizar producción y entregas. 
-
 ## Actividades Clave
 Maflow es una empresa considerada líder en la fabricación de componentes en la industria de automoción, para ello cuenta con una serie de actividades clave, las cuales aportan un valor al cliente el cual es fundamental para el negocio, están descritas a continuación:
 
