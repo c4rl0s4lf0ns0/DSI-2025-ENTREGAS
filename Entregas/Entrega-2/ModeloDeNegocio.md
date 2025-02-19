@@ -53,6 +53,15 @@ También se dedican a la implementación de tecnologías de impresión 3D para p
 ### Inteligencia artificial
 Adaptandose a los nuevos avances, cabe destacar que Maflow ha integrado la inteligencia artificial y el análisis de datos en sus procesos consiguiendo así una mejora en la eficiencia y competitividad dentro del sector.
 
+## Fuentes de Ingresos  
+Maflow Spain Automotive S.L. genera ingresos a través de múltiples canales dentro del sector automotriz e industrial. Su modelo de negocio se basa en acuerdos comerciales de suministro, venta de productos especializados y servicios tecnológicos avanzados.  
+
+### 1. **Contratos de suministro a largo plazo con fabricantes de automóviles (OEMs)**  
+   - La principal fuente de ingresos de Maflow proviene de contratos de suministro con grandes fabricantes de automóviles como Volkswagen, Ford y BMW.  
+   - Estos contratos establecen volúmenes de producción y precios a largo plazo, asegurando una estabilidad financiera para la empresa.  
+   - La empresa fabrica y suministra tuberías para sistemas de climatización y refrigeración, esenciales para los vehículos modernos.  
+
+
 
 ## Estructura de costos
 ### I + D 
