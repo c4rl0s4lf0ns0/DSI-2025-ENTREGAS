@@ -208,4 +208,4 @@ Su experiencia en fabricación aditiva les capacita para transformar las ideas d
 ### Asistencia técnica continua
 Más allá de la entrega del producto, se ofrece un acompañamiento integral durante todo su ciclo de vida. Su compromiso incluye soporte técnico constante, asegurando que los productos mantengan un rendimiento óptimo y que cualquier incidencia sea resuelta de manera rápida y efectiva. Esta dedicación refuerza la confianza y satisfacción de los clientes, consolidando relaciones a largo plazo basadas en la fiabilidad y el apoyo mutuo.  
 
-[![](https://img.shields.io/badge/-Inicio-FFF?style=flat&logo=Emlakjet&logoColor=black)](/README.md)
+[![](https://img.shields.io/badge/-Inicio-FFF?style=for-the-badge&logo=Emlakjet&logoColor=black)](/README.md)
