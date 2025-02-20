@@ -10,9 +10,16 @@ Maflow Spain Automotive S.L., es una empresa que comenzó a operar en Cantabria 
 
 | Propuesta de valor | Segmento de Clientes | Canales de Distribución | Relación con Clientes | Fuentes de Ingresos | Recursos Clave | Actividades Clave | Estructura de Costos |
 |--------------------|---------------------|------------------------|----------------------|----------------------|----------------|-----------------|----------------|
-| Fabricación de componentes de aire acondicionado de alta calidad con certificaciones internacionales | Fabricantes de automóviles (OEMs) como Volkswagen, Ford, BMW | Venta directa a fabricantes de automoviles a través de equipo comercial especializado | Soporte de ingeniería para desarrollo de nuevos productos | Contratos de suministro a largo plazo con OEMs | Plantas de producción automatizadas | Producción de componentes bajo estándares ISO/TS 16949 | Inversión en maquinaria y automatización |
-| Soluciones personalizadas para diferentes marcas de automóviles | Proveedores de primer nivel (Tier 1) de la industria automotriz | Portal B2B y sistema SAP para gestión de pedidos y seguimiento de entrega en tiempo real| | Venta de componentes especializados a proveedores Tier 1 | Laboratorios de pruebas y certificación | | Costos de materias primas |
-||||||||I+D
+| - Certificaciones internacionales (IATF 16949:2016, ISO 9001, ISO 14001) | - Sector Automotriz (SEAT, VW, Audi, etc.) | - Venta directa con equipo comercial especializado | - Soporte de ingeniería personalizado | - Contratos a largo plazo con OEMs | - Plantas de producción | - Fabricación bajo ISO/TS 16949 | - I+D (2.3M€ inversión) |
+| - Soluciones personalizadas de componentes | - Fabricantes de vehículos industriales (Volvo, Scania) | - Portal B2B y sistema SAP | - Desarrollo de productos a medida | - Venta de componentes Tier 1 | - Impresora 3D más grande de Cantabria | - Producción de tuberías A/C | - Materias primas |
+| - Compromiso ambiental (Pacto Mundial ONU) | - Empresas de sistemas de refrigeración | - Gestión de pedidos en tiempo real | - Asistencia técnica continua | - División Borygo (líquidos) | - Laboratorios certificados | - Servicios industriales | - Mano de obra (101 empleados) |
+| - Tecnología de simulación avanzada | - Clientes industriales e impresión 3D | | | - Servicios de impresión 3D | - Tecnología de simulación | - Fabricación aditiva | - Capacitación y formación |
+## Diagrama del Modelo de Negocio
+
+|Diagrama|
+|:-:|
+|![](/Documentos/Imagenes/DiagramaModeloNegocio.svg)|
+
 
 ## Propuesta de Valor: 
 Maflow S.A cuenta con certificaciones internacionales que avala su compromiso con la calidad y la gestión ambiental, algunas de esas certificaciones son: 
@@ -124,11 +131,7 @@ Distribuye los elementos y piezas anteriores además de rodamientos bajo la marc
 ### Portal B2B y sistema Sap para la gestión de pedidos
 - A través del SAP (Systems, Applications & Products in Data Processing) no solo se mejora la precisión en la gestión de pedidos sino que también le permite a los clientes acceso e información sobre sus pedidos, fortaleciendo la confianza en sus operaciones
 
-## Diagrama del Modelo de Negocio
 
-|Diagrama|
-|:-:|
-|![](/Documentos/Imagenes/DiagramaModeloNegocio.svg)|
 
 
 [INICIO](/README.md)
