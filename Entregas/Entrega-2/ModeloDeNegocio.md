@@ -27,17 +27,17 @@ Maflow S.A cuenta con certificaciones internacionales que avala su compromiso co
 2. ISO 9001: Se centra en los sistemas de gestión de la calidad. Demuestra la capacidad de la empresa para proporcionar productos y servicios que cumplen los requisitos del cliente y las regulaciones aplicables.
 3. ISO 14001: Esta norma establece los criterios para un sistema de gestión ambiental efectivo. Ayuda a las organizaciones a mejorar su desempeño ambiental mediante el uso efectivo de los recursos y la reducción de residuos.
 
-### Compromiso Social y Ambiental
-Además de las certificaciones, Maflow S.A. ha demostrado su compromiso al unirse  al Pacto Mundial de las Naciones Unidas en Mayo de 2024 el cual consta en alinear sus estrategias y operaciones con diez principios universales sobre derechos humanos, normas laborales, medioambiente y lucha contra la corrupción. https://unglobalcompact.org/what-is-gc/participants/164320-MAFLOW-SPAIN-AUTOMOTIVE
+### [Compromiso Social y Ambiental](https://unglobalcompact.org/what-is-gc/participants/164320-MAFLOW-SPAIN-AUTOMOTIVE)
+Además de las certificaciones, Maflow S.A. ha demostrado su compromiso al unirse  al Pacto Mundial de las Naciones Unidas en Mayo de 2024 el cual consta en alinear sus estrategias y operaciones con diez principios universales sobre derechos humanos, normas laborales, medioambiente y lucha contra la corrupción.
 
 ### Soluciones personalizadas 
 Desarrollo de componentes a medida; diseño y fabricación de tuberías de caucho y aluminio adaptadas a los requirimientos específicos de cada fabricante, uso de la tecnología de simulación avanzada para optimizar el diseño y funcionalidad de los componentes antes de su producción.
 
-### Procesos de producción y gestión 
+### [Procesos de producción y gestión](https://maflow.es/proyecto-mddc4-0/)
 Maflow Spain ha adaptado iniciativas para optimizar sus procesos utilizando los prinicpios de la Industria 4.0, algunas de esas acciones son: 
 1. Integaración del sistema SAP: Mejora la eficiencia en la comunicación y gestión de la cadena de suminstro. 
-2. Proyecto MDDC4.0: Su objetivo es desarrollar e implementear soluciones tecnológicas destinadas a la digitalización y conectividad dentro de la Organización, mediante un proceso continuo de extracción, almacenamiento,análisis, exploración y visualización de la información, todo ello con el propósito de convertir a la empresa en una "Data Driven Company". https://maflow.es/proyecto-mddc4-0/  
-
+2. Proyecto MDDC4.0: Su objetivo es desarrollar e implementear soluciones tecnológicas destinadas a la digitalización y conectividad dentro de la Organización, mediante un proceso continuo de extracción, almacenamiento,análisis, exploración y visualización de la información, todo ello con el propósito de convertir a la empresa en una "Data Driven Company".
+   
 ## Actividades Clave
 Maflow es una empresa considerada líder en la fabricación de componentes en la industria de automoción, para ello cuenta con una serie de actividades clave, las cuales aportan un valor al cliente el cual es fundamental para el negocio, están descritas a continuación:
 
