@@ -140,8 +140,9 @@ Entendemos que cada cliente tiene necesidades únicas. Por ello, el equipo de in
 
 ### Desarrollo de productos a medida
 Su experiencia en fabricación aditiva les capacita para transformar las ideas de sus clientes en realidades tangibles. Desde la fase conceptual hasta la producción final, se aplican tecnologías avanzadas como Netfabb y Fusion 360 para diseñar y producir piezas complejas de manera eficiente y precisa. Este proceso garantiza que cada producto se ajuste exactamente a las especificaciones y expectativas del cliente. 
+https://www.autodesk.com/es/customer-stories/maflow
 
 ### Asistencia técnica continua
-Más allá de la entrega del producto, se ofrece un acompañamiento integral durante todo su ciclo de vida. Su compromiso incluye soporte técnico constante, asegurando que los productos mantengan un rendimiento óptimo y que cualquier incidencia sea resuelta de manera rápida y efectiva. Esta dedicación refuerza la confianza y satisfacción de los clientes, consolidando relaciones a largo plazo basadas en la fiabilidad y el apoyo mutuo.
-
+Más allá de la entrega del producto, se ofrece un acompañamiento integral durante todo su ciclo de vida. Su compromiso incluye soporte técnico constante, asegurando que los productos mantengan un rendimiento óptimo y que cualquier incidencia sea resuelta de manera rápida y efectiva. Esta dedicación refuerza la confianza y satisfacción de los clientes, consolidando relaciones a largo plazo basadas en la fiabilidad y el apoyo mutuo.  
+https://maflow.es
 [INICIO](/README.md)
