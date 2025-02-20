@@ -114,6 +114,15 @@ Distribuye los elementos y piezas anteriores además de rodamientos bajo la marc
 - Impresiones 3D: presta sus servicios y tecnología para tanto diseñar como producir e imprimir piezas a nivel nacional e internacional.
 - Reciclables: Maflow asegura que sus productos pueden ser reconstruidos y reciclados, como las baterías y tubos de caucho, y se los proporciona a empresas de reutilización.
 
+
+## Canales de distribución
+
+### Venta directa a fabricantes a tavés de equip comercial especializado
+- Al mantener relaciones directas con fabricantes como Volkswagen, Audi, Renault, etc. Maflow y su equipo comercial aseguran la adaptación de sus productos a as especificaciones de los clientes, agilizando así tanto ptocesos de negocicación como de entrega
+
+### Portal B2B y sistema Sap para la gestión de pedidos
+- A través del SAP (Systems, Applications & Products in Data Processing) no solo se mejora la precisión en la gestión de pedidos sino que también le permite a los clientes acceso e información sobre sus pedidos, fortaleciendo la confianza en sus operaciones
+
 ## Diagrama del Modelo de Negocio
 
 |Diagrama|
