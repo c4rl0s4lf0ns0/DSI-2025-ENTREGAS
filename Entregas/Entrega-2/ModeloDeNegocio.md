@@ -35,8 +35,9 @@ Maflow Spain ha adaptado iniciativas para optimizar sus procesos utilizando los 
 Maflow es una empresa considerada líder en la fabricación de componentes en la industria de automoción, para ello cuenta con una serie de actividades clave, las cuales aportan un valor al cliente el cual es fundamental para el negocio, están descritas a continuación:
 
 ### Fabricación de componentes bajo la ISO/TS 16949
-De forma genérica podemos decir que Maflow fabrica sus componentes bajo esta norma, en la actualidad conocida como IATF 16949, la cual es usada como un estándar para la gestión de la calidad en las industrias automotrices
+De forma genérica podemos decir que Maflow fabrica sus componentes bajo esta norma, en la actualidad conocida como IATF 16949, la cual es usada como un estándar para la gestión de la calidad en las industrias automotrices.
 Garantiza una serie de aspectos importantes tales como: un riguroso control de la producción para cumplir con requisitos, la optimización de procesos reduciendto defectos y desperdicios, proporcionar tanto una trazabilidad de los componentes como su documentación y cumplir las normas en de seguridad y ambientales establecidas.
+
 
 ### Fabricación de tuberías de aire acondicionado
 Entrando más en detalle sobre las actividades realizadas, la principal actividad realizada en la empresa es la producción de tuberías para sistemas de climatización en vehículos, contando con una reconocido rama de clientes como son: Volkswagen, Audi, Skoda, SEAT, Peugeot-Citroën y Renault
@@ -100,7 +101,7 @@ Capacitación y formación: Inversión en entrenamiento de empleados para mejora
 
 Seguridad y bienestar: Costos en medidas de seguridad y beneficios para los empleados.
 
-### Segmentos de clientes
+## Segmentos de clientes
 Responde a la pregunta de ¿quiénes son los clientes de mi empresa? Los segmentos son diferentes grupos de personas y/o empresas a los que una entidad se dirige para ofrecerles valor con sus productos y servicios producidos. Los clientes están divididos y agrupados en segmentos con características similares en función de estos y también de la propia empresa. Pueden ser amplios si la empresa se dirige de manera masiva al mercado o de nicho. La organización tiene que saber identificarlos para adaptar su oferta a cada uno de ellos para mejorar su relación con ellos y optimizar los ingresos.
 
 1. Sector Automotriz (tuberías, piezas hechas por encargo, líquidos de frenos, anticongelante, limpiaparabrisas)
